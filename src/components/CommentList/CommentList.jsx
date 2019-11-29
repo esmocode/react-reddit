@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import Comment from '../Comment/Comment'
-import { connect } from 'react-redux';
-import { getComments } from '../../store/actions/commentActions'
+
 
 import './CommentList.scss';
 

@@ -1,4 +1,4 @@
-import { GET_COMMENTS, DEL_COMMENT } from './types';
+import { GET_COMMENTS } from './types';
 
 //Get Comments from api -----------------------------------
 export const getComments = () => (dispatch, getState) => {
