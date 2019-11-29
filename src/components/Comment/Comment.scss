@@ -1,0 +1,24 @@
+.comment {
+	padding: 7px 5px;
+	margin-left: 10px;
+	border-left: 2px solid #03A9F4;
+	margin-bottom: 7px;
+	display: flex;
+	justify-content: space-between;
+	border-bottom: 1px solid #eee;
+	p {
+		margin: 0;
+	}
+}
+
+.delButton {
+	background: none;
+	border: none;
+	color: #FF5722;
+	font-size: 13px;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-size: 13px;
+	font-weight: bold;
+}
